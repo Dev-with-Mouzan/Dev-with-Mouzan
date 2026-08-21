@@ -53,24 +53,30 @@ class MouzanRaza:
   <tr>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/Dev-with-Mouzan/DevPilot_Ai">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dev-with-Mouzan&repo=DevPilot_Ai&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="DevPilot AI" />
+        <img src="https://opengraph.githubassets.com/1/Dev-with-Mouzan/DevPilot_Ai" width="100%" alt="DevPilot AI" />
       </a>
       <br/>
-      <sub><b>Multi-agent software engineering platform</b><br/>Specialized agents plan, build, review, and deploy real projects.</sub>
+      <a href="https://github.com/Dev-with-Mouzan/DevPilot_Ai"><b>🤖 DevPilot AI</b></a>
+      <br/>
+      <sub>Multi-agent software engineering platform<br/>Specialized agents plan, build, review, and deploy real projects.</sub>
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/Dev-with-Mouzan/CareerCopilot_AI">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dev-with-Mouzan&repo=CareerCopilot_AI&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="CareerCopilot AI" />
+        <img src="https://opengraph.githubassets.com/1/Dev-with-Mouzan/CareerCopilot_AI" width="100%" alt="CareerCopilot AI" />
       </a>
       <br/>
-      <sub><b>Career platform</b><br/>Resume parsing, job matching, ATS analysis, interview preparation.</sub>
+      <a href="https://github.com/Dev-with-Mouzan/CareerCopilot_AI"><b>💼 CareerCopilot AI</b></a>
+      <br/>
+      <sub>Career platform<br/>Resume parsing, job matching, ATS analysis, interview preparation.</sub>
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/Dev-with-Mouzan/FounderLens_AI">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dev-with-Mouzan&repo=FounderLens_AI&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="FounderLens AI" />
+        <img src="https://opengraph.githubassets.com/1/Dev-with-Mouzan/FounderLens_AI" width="100%" alt="FounderLens AI" />
       </a>
       <br/>
-      <sub><b>Startup validation platform</b><br/>Parallel agents, quality gates, retry logic, advisor verdict.</sub>
+      <a href="https://github.com/Dev-with-Mouzan/FounderLens_AI"><b>🔭 FounderLens AI</b></a>
+      <br/>
+      <sub>Startup validation platform<br/>Parallel agents, quality gates, retry logic, advisor verdict.</sub>
     </td>
   </tr>
 </table>
@@ -120,8 +126,8 @@ class MouzanRaza:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dev-with-Mouzan&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dev-with-Mouzan&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-with-Mouzan&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-with-Mouzan&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8" alt="Top languages" />
 
 <br/><br/>
 
