@@ -126,8 +126,10 @@ class MouzanRaza:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-six-rosy.vercel.app/api?username=Dev-with-Mouzan&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-six-rosy.vercel.app/api/top-langs?username=Dev-with-Mouzan&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8" alt="Top languages" />
+<img src="https://img.shields.io/github/stars/Dev-with-Mouzan?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117" alt="Stars" />
+<img src="https://img.shields.io/github/followers/Dev-with-Mouzan?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/contributions/Dev-with-Mouzan/Dev-with-Mouzan?style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Contributions" />
+<img src="https://img.shields.io/badge/Repos-41-58a6ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Repos" />
 
 <br/><br/>
 
