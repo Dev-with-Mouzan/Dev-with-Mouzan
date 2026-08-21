@@ -53,7 +53,7 @@ class MouzanRaza:
   <tr>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/Dev-with-Mouzan/DevPilot_Ai">
-        <img src="https://opengraph.githubassets.com/1/Dev-with-Mouzan/DevPilot_Ai" width="100%" alt="DevPilot AI" />
+        <img src="Devpilotai.PNG" width="100%" alt="DevPilot AI" />
       </a>
       <br/>
       <a href="https://github.com/Dev-with-Mouzan/DevPilot_Ai"><b>🤖 DevPilot AI</b></a>
@@ -62,7 +62,7 @@ class MouzanRaza:
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/Dev-with-Mouzan/CareerCopilot_AI">
-        <img src="https://opengraph.githubassets.com/1/Dev-with-Mouzan/CareerCopilot_AI" width="100%" alt="CareerCopilot AI" />
+        <img src="careercopilot.PNG" width="100%" alt="CareerCopilot AI" />
       </a>
       <br/>
       <a href="https://github.com/Dev-with-Mouzan/CareerCopilot_AI"><b>💼 CareerCopilot AI</b></a>
@@ -71,7 +71,7 @@ class MouzanRaza:
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/Dev-with-Mouzan/FounderLens_AI">
-        <img src="https://opengraph.githubassets.com/1/Dev-with-Mouzan/FounderLens_AI" width="100%" alt="FounderLens AI" />
+        <img src="founderlens ai.PNG" width="100%" alt="FounderLens AI" />
       </a>
       <br/>
       <a href="https://github.com/Dev-with-Mouzan/FounderLens_AI"><b>🔭 FounderLens AI</b></a>
