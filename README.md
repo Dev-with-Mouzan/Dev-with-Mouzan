@@ -126,8 +126,8 @@ class MouzanRaza:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-with-Mouzan&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-with-Mouzan&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-nine-tau.vercel.app/api?username=Dev-with-Mouzan&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-nine-tau.vercel.app/api/top-langs/?username=Dev-with-Mouzan&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8" alt="Top languages" />
 
 <br/><br/>
 
